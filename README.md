@@ -50,8 +50,8 @@ summary statistics reported in Paper 1 (Okabe 2026) and are hard-coded in
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-handle>/ECSoC_Paper2_Simulations.git
-cd ECSoC_Paper2_Simulations
+git clone https://github.com/shirasagiakemi/Empirically-Constrained-Order-Parameter-Dynamics-of-Cardiovascular-Criticality-.git
+cd Empirically-Constrained-Order-Parameter-Dynamics-of-Cardiovascular-Criticality-
 python fig_C_simulations.py        # Reproduces Figure C
 python fig_D_kramers.py            # Reproduces Figure D
 python fig_A_fokker_planck.py      # Reproduces Figure A
