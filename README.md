@@ -1,1 +1,0 @@
-# Empirically-Constrained-Order-Parameter-Dynamics-of-Cardiovascular-Criticality-
