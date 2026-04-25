@@ -97,7 +97,7 @@ All model parameters are derived from Paper 1 cross-cohort data (no free fitting
 | a₀ | 20.5 | Slope of A vs R² across 10 cohorts |
 | B | 1.0 | Normalised (sets CHI scale) |
 | D | 0.06 ± 0.02 | Fokker-Planck KL-divergence minimisation |
-| β | 0.88 | Empirical Phase V prevalence scaling exponent |
+| β | 1.255 | Empirical Phase V prevalence scaling exponent |
 | κ (mult. noise) | 1.5 | Multiplicative noise shape parameter |
 | ε₀ (mult. noise) | 0.346 | Multiplicative noise amplitude (D=0.06 target) |
 
